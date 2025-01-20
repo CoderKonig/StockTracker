@@ -1,0 +1,1 @@
+Repository to track different stock prices and using ML to help you choose which stocks to buy based on historical data.
